@@ -698,7 +698,7 @@
             <categoryLink id="0477-de55-1dc3-bef5" name="Units" hidden="false" targetId="97af-b0fb-4cef-d818" primary="false"/>
           </categoryLinks>
           <costs>
-            <cost name=" Points" typeId="8612-cb2b-a715-55c1" value="17.0"/>
+            <cost name=" Points" typeId="8612-cb2b-a715-55c1" value="70.0"/>
           </costs>
         </selectionEntry>
       </selectionEntries>
